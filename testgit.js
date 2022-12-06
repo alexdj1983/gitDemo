@@ -1,1 +1,2 @@
-alert("HI");
+alert("HI!!!!");
+console.log('relax!')
